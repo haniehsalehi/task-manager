@@ -2,7 +2,7 @@
 
 A simple web-based task manager built with PHP and MySQL. You can add and delete your daily tasks with a clean and responsive UI using Bootstrap 5.
 
-![Task Manager Screenshot](Screenshot 2025-07-21 200241.png)
+![Task Manager Screenshot](./Screenshot 2025-07-21 200241.png)
 
 ## Features
 
